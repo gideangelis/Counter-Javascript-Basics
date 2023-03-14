@@ -5,7 +5,13 @@ This is a basic counter realised with HTML, CSS and JavaScript.
 
 Following, the under the required technical specifications.
 
-##
+## Technical Requirements
+
+The project was realised based on the indications of the start2impact coaches:
+
+- The application must be developed with JavaScript. The use of Jquery or any framework is not allowed.
+- The +/- buttons, and also the display of the counter value must be implemented with JavaScript.
+- Any additional features deemed necessary are allowed.
 
 ### 🛠 Built with
 - <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
