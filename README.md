@@ -3,9 +3,11 @@
 
 This is a basic counter realised with HTML, CSS and JavaScript. 
 
+## The Project
+
 Following, the under the required technical specifications.
 
-## Technical Requirements
+### Technical Requirements
 
 The project was realised based on the indications of the start2impact coaches:
 
