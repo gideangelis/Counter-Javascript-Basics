@@ -3,7 +3,7 @@
 
 This is a basic counter realised with HTML, CSS and JavaScript. 
 
-<strong>Link to the Netflify page: <a href="https://counter-js-basics.netlify.app/">Counter JavaScript Basics</a>
+<strong>Link</strong> to the Netflify page: <a href="https://counter-js-basics.netlify.app/">Counter JavaScript Basics</a>
 
 ## The Project
 
