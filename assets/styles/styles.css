@@ -1,0 +1,86 @@
+:root {
+    --bg-color: linear-gradient(45deg, rgb(149, 182, 247), rgb(51, 107, 219));
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Rubik', sans-serif;
+    overflow: hidden;
+}
+
+body {
+    letter-spacing: 1px;
+}
+
+#container {
+    height: 89vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+a {
+    color: rgb(41, 41, 164);
+}
+
+#btn-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: baseline;
+}
+
+
+footer {
+    height: 80px;
+    background: var(--bg-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.author {
+    font-style: italic;
+}
+
+/* Responsive */
+
+@media only screen and (max-width: 500px) {
+
+    h1 {
+        margin: 10px 0 10px 0;
+    }
+
+    #btn-container {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        flex-direction: column-reverse;
+        margin-bottom: 30px;
+    }
+
+    .reset-btn {
+        margin: 20px;
+    }
+
+    .subTen-btn,
+    .addTen-btn {
+        visibility: hidden;
+        position: absolute;
+    }
+
+    .author {
+        text-align: center;
+    }
+
+}
