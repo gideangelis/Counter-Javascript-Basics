@@ -5,7 +5,29 @@ This is a basic counter realised with HTML, CSS and JavaScript.
 
 Following, the under the required technical specifications.
 
-
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#overview">Overview</a>
+      <ul>
+        <li><a href="#built-with">Built with</a></li>
+      </ul>
+      <ul>
+        <li><a href="#links">Links</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#process">Process</a>
+      <ul>
+        <li><a href="#built-with">Built with</a></li>
+        <li><a href="#what-i-learned">What I learned</a></li>
+        <li><a href="#usefull-resources">Usefull resources</a></li>
+        <li><a href="#author">Author</a></li>
+      </ul>
+      </li>
+  </ol>
+</details>
 
 ## 🛠 Built with
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
